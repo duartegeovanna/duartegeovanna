@@ -2,7 +2,7 @@
 <h3 align="center">✨Desenvolvedora Java Web Full Stack em formação!!✨</h3>
 
 - ⚡ Turma 53 do bootcamp da <a href="https://brazil.generation.org/"><i>Generation Brasil</a>
-- 🌱 Estudante de Engenharia da Computação na Univesp
+- 🌱 Estudante de Engenharia de Computação na Univesp
 - 😊 Pronomes: Ela/Dela 
 - 📄 Saiba mais sobre mim em: [https://www.linkedin.com/in/geovannaduarte/](https://www.linkedin.com/in/geovannaduarte/)
 
