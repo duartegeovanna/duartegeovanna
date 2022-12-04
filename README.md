@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 eu sou a Geovanna Duarte!</h1>
-<h3 align="center">✨Desenvolvedora Java Web Full Stack em formação!!✨</h3>
+<h3 align="center">✨Desenvolvedora Java✨</h3>
 
-- ⚡ Turma 53 do bootcamp da <a href="https://brazil.generation.org/"><i>Generation Brasil</a>
+- ⚡ Ex aluna da turma 53 no bootcamp da <a href="https://brazil.generation.org/"><i>Generation Brasil</a>
 - 🌱 Estudante de Engenharia de Computação na Univesp
 - 😊 Pronomes: Ela/Dela 
 - 📄 Saiba mais sobre mim em: [https://www.linkedin.com/in/geovannaduarte/](https://www.linkedin.com/in/geovannaduarte/)
